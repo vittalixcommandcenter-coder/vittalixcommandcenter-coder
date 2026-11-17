@@ -2,25 +2,27 @@
 
 **Desenvolvedor full-stack · Fundador da Vittalix**
 
-Crio produtos SaaS completos, da arquitetura de dados à experiência de quem usa. Meu principal projeto é o **ProntuIA**, uma plataforma de gestão clínica que reúne prontuário eletrônico, teleconsulta e recursos de inteligência artificial.
+Crio produtos SaaS completos, da arquitetura de dados à experiência de quem usa. Meu principal projeto é o **ProntuIA**, uma plataforma de gestão clínica com módulos especializados já disponíveis, incluindo uma experiência dedicada à psicologia.
 
 [Conheça o ProntuIA](https://prontuia.com.br) · [Portfólio](https://mazzo.vittalix.com.br) · [LinkedIn](https://www.linkedin.com/in/guilhermemazzoo/)
 
 ## ProntuIA · projeto principal
 
-O ProntuIA foi pensado para ajudar clínicas e profissionais de saúde a acompanhar a jornada do paciente em um só lugar, do agendamento ao atendimento e aos documentos clínicos.
+O ProntuIA ajuda clínicas e profissionais de saúde a acompanhar a jornada do paciente em um só lugar, do agendamento ao atendimento e aos documentos clínicos.
 
-![Demonstração pública do prontuário com IA do ProntuIA](assets/prontuia-ia.png)
+### Módulo de psicologia
+
+Uma área própria para a rotina de psicólogos e clínicas de psicologia. A experiência reúne visão geral do dia, agenda, pacientes e acompanhamento clínico.
 
 **O que construo nesse produto:**
 
-- Fluxos de prontuário eletrônico e teleconsulta.
+- Agenda clínica e agenda pessoal separadas.
+- Gestão de pacientes e responsáveis legais.
+- Prontuário, evoluções e plano terapêutico para o acompanhamento psicológico.
 - Recursos de IA para apoiar o trabalho clínico.
 - Experiência web responsiva para o dia a dia de profissionais de saúde.
 
 **Stack:** `React` · `TypeScript` · `Supabase` · `Tailwind CSS`
-
-![Visão geral dos recursos apresentados no site do ProntuIA](assets/prontuia-recursos.png)
 
 → [Acessar o ProntuIA](https://prontuia.com.br)
 
